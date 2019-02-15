@@ -1,4 +1,3 @@
-var kittens array1 = ["Milo", "Otis", "Garfield"]
-var kittens array2 = ["Elmo", "Skeeter"]
+var kittens array1 = ["Milo", "Otis", "Garfield"];
 
 console.log(kittens.slice(2));
