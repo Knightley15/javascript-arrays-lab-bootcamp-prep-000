@@ -1,3 +1,4 @@
-var kittens = [] //define your array here
+var kittens array1 = ["Milo", "Otis", "Garfield"];
+var kittens array2 = ["Elmo", "Skeeter"];
 
-// Add your functions and code here
+console.log(array1.concat(array2));
