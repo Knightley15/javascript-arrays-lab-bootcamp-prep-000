@@ -1,2 +1,2 @@
-var kittens array1 = ["Milo", "Otis", "Garfield"];
+var kittens array = ["Milo", "Otis", "Garfield"];
   console.log(kittens.slice(2));
